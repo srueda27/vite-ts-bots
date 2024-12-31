@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "BlackFuture";
+  src:
+    local("BlackFuture"),
+    url("BlackFuture-gx1q3.otf") format("opentype") tech(color-COLRv1),
+    url("BlackFuture-gx1q3.otf") format("opentype");
+}
+
+h1 {
+  font-family: 'BlackFuture';
+  color: #13a09b;
+  font-weight: 200;
+}
+
+/* https://jsonplaceholder.cypress.io/ */
+/* https://jsonplaceholder.typicode.com/ */
